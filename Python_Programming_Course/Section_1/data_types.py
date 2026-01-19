@@ -10,7 +10,7 @@ print("String: ", type("Hello"))
 print("Boolean: ", type(True))
 
 # String concatenation
-print("Hello, " + "world!")
+print("Hello, " + "world!") # You can only concatenate strings
 print("Hello"*4) # Repeat string 4 times
 
 #Variables
