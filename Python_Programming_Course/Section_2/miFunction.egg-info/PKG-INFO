@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: miFunction
+Version: 1.0
+Summary: packageTest
+Home-page: https://www-me-es
+Author: me
+Author-email: me@me.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
